@@ -1,4 +1,7 @@
+This repo is for reproducing our results in “Lipschitz Generative Adversarial Nets”.
+
 We use tensorflow 1.5 with python 3.5.
+
 You can refer to setting_cuda9_cudnn7_tensorflow1.5.sh to build up your environment.
 
 sobolev_cifar10.py:
