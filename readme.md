@@ -1,4 +1,4 @@
-This repo is for reproducing our results in “Lipschitz Generative Adversarial Nets”.
+This repo is for reproducing our results in [“Lipschitz Generative Adversarial Nets”](https://arxiv.org/abs/1902.05687).
 
 We use tensorflow 1.5 with python 3.5.
 
